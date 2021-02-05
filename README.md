@@ -92,7 +92,7 @@
 ## 第三方库
 
 - 需要使用到的库已经放在requirements.txt，使用pip安装的可以使用指令  
-`pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/`
+`pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/`
 `pip3 install cryptography pyOpenSSL certifi`
 
 
